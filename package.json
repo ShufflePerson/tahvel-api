@@ -1,0 +1,31 @@
+{
+  "name": "tahvel-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShufflePerson/tahvel-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShufflePerson/tahvel-api/issues"
+  },
+  "homepage": "https://github.com/ShufflePerson/tahvel-api#readme",
+  "dependencies": {
+    "@types/node": "^24.3.1",
+    "axios": "^1.12.0",
+    "axios-cookiejar-support": "^6.0.4",
+    "dotenv": "^17.2.2",
+    "tough-cookie": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/tough-cookie": "^4.0.5"
+  }
+}
